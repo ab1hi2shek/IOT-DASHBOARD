@@ -3,7 +3,7 @@ IOT DASHBOARD
 
 A node.js project to get real time data from the sensors and to display that on the Dashboard.This Project includes real time graph generation.
 	
-	To learn more about IOT [click](https://github.com/facebook/react/wiki/Sites-Using-React)
+	To learn more about IOT [click](https://en.wikipedia.org/wiki/Internet_of_things)
 
 
 Installation
